@@ -1,7 +1,10 @@
 {
   "name": "amazon",
   "version": "0.1.0",  
-  "private": true,  
+  "private": true, 
+  "engines": {
+    "node": "18.14.2"
+  },
   "dependencies": {
     "@mui/icons-material": "^5.2.1",
     "@testing-library/jest-dom": "^5.14.1",
